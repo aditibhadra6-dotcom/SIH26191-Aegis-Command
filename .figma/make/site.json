@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to identify hazard-prone red zones, assess carrying capacity, and plan immediate relocation for vulnerable communities with an intuitive, secure interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
